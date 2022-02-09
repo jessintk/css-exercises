@@ -2,7 +2,7 @@
 * `p`: a green background, white text, and a font size of 18px
 * `button`: an orange background and a font size of 18px/
 
-div {
+title {
     color: white;
     background-color: red;
     font-size: 32px;
